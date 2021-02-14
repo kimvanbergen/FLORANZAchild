@@ -287,8 +287,6 @@ header { box-shadow: 0 rem(16px) rem(9px) rem(-12px) transparentize($black, .94)
   border: $btn-border-width solid transparent;
   @include button-size($btn-padding-y, $btn-padding-x, $btn-font-size, $btn-line-height, $btn-border-radius);
 
-//hallo doria
-
   &.disabled,
   &:disabled {
     opacity: $btn-disabled-opacity;
