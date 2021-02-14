@@ -1,4 +1,4 @@
-# NOVA-Child-Vorlage für Shop 5.0
+# Kim van Bergen's -Child-Vorlage für JTL Shop 5.0
 
 Dieses Template dient als Vorlage für ein eigenes Child-Template des NOVA.
 Es basiert auf dem NOVA-Theme "clear" und enthält alle (und nur die) Dateien, die mindestens in einem NOVA-Child-Template
@@ -7,7 +7,6 @@ vorhanden sein müssen.
 keine eigenen Änderungen.
 
 ## Installation
-**ACHTUNG!!!**  
 Bitte nutzen Sie zum Download den Link (ensprechend der gewünschten Version) : https://build.jtl-shop.de/#template  
   
 Bei einem direkten Download über *gitlab.com* muss der automatisch erstellte Ordner beim Entpacken 
